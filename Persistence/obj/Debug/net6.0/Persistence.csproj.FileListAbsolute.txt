@@ -1,0 +1,15 @@
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\bin\Debug\net6.0\Domain.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll

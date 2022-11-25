@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyFiles\\Projects\\Courses\\Complete guide to building an app with .Net Core and React\\ProjectReactivities\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\MyFiles\\Projects\\Courses\\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\\ProjectReactivities\\Reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\MyFiles\\Projects\\Courses\\Complete guide to building an app with .Net Core and React\\ProjectReactivities\\Reactivities\\Domain\\Domain.csproj",
+      "projectPath": "C:\\MyFiles\\Projects\\Courses\\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\\ProjectReactivities\\Reactivities\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\palla\\.nuget\\packages\\",
-      "outputPath": "C:\\MyFiles\\Projects\\Courses\\Complete guide to building an app with .Net Core and React\\ProjectReactivities\\Reactivities\\Domain\\obj\\",
+      "outputPath": "C:\\MyFiles\\Projects\\Courses\\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\\ProjectReactivities\\Reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\palla\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\bin\Debug\net6.0\Domain.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\bin\Debug\net6.0\Domain.pdb
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.pdb
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Domain\obj\Debug\net6.0\ref\Domain.dll

@@ -1,0 +1,17 @@
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\bin\Debug\net6.0\Application.deps.json
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\bin\Debug\net6.0\Application.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\bin\Debug\net6.0\Application.pdb
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\bin\Debug\net6.0\Domain.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\bin\Debug\net6.0\Persistence.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\bin\Debug\net6.0\Persistence.pdb
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\bin\Debug\net6.0\Domain.pdb
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\obj\Debug\net6.0\Application.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\obj\Debug\net6.0\refint\Application.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\obj\Debug\net6.0\Application.pdb
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\Application\obj\Debug\net6.0\ref\Application.dll
