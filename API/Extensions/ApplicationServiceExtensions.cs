@@ -4,6 +4,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using Persistence;
+using Microsoft.Extensions.Configuration;
 
 namespace API.Extensions
 {
