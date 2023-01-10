@@ -58,3 +58,8 @@ C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to buil
 C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\API\bin\Debug\net6.0\Humanizer.dll
 C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\API\bin\Debug\net6.0\MediatR.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\API\bin\Debug\net6.0\AutoMapper.dll
+C:\MyFiles\Projects\Courses\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\ProjectReactivities\Reactivities\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "b7z/xd/B6iWxaotlWvT4G7d9WZ8x3vGIv+UzoM3wrI/dmHjqiSMTUWafKArjs7oDH0QVJqiXYheELO5Rptdhnw==",
+  "dgSpecHash": "PHYz8l8YSnGIku2H+Qui2q+GvDX84h+n5zD1dO4WAV1aJdszPEyyBVq0edLJW9BSzM9tOq2vMi25FN+K2XSypg==",
   "success": true,
   "projectFilePath": "C:\\MyFiles\\Projects\\Courses\\UdemyCourse - Neil Cummings - Complete guide to building an app with .Net Core and React\\ProjectReactivities\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\palla\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\palla\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\palla\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\palla\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\palla\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\palla\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\palla\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
     "C:\\Users\\palla\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
     "C:\\Users\\palla\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512",
