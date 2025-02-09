@@ -1,0 +1,36 @@
+git log --all --decorate --oneline --graph
+git config alias.adog "log --all --decorate --oneline --graph"
+
+dotnet --info
+dotnet new list
+dotnet new sln
+dotnet new webapi -n API -controllers
+dotnet new classlib -n Domain
+dotnet new classlib -n Application
+dotnet new classlib -n Persistence
+dotnet sln add API
+dotnet sln add Domain
+dotnet sln add Application
+dotnet sln add Persistence
+
+Note:
+Add project references
+API has project reference of Application
+Application has project reference of Domain and Persistence
+Persistence has project reference of Domain
+
+dotnet tool list --global
+dotnet tool install --global dotnet-ef --version 9.0.1
+
+dotnet ef migrations add InitialCreate -p Persistence -s API
+dotnet ef database update -p Persistence -s API
+dotnet ef database drop -p Persistence -s API
+
+dotnet new gitignore
+
+Note:
+Add files to gitignore
+API/appsettings.json
+API/reactivities.db
+API/reactivities.db-shm
+API/reactivities.db-wal
