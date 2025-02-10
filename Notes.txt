@@ -34,3 +34,27 @@ API/appsettings.json
 API/reactivities.db
 API/reactivities.db-shm
 API/reactivities.db-wal
+
+npm create vite@latest
+
+Note:
+configure vite.config.ts for port
+
+Install material ui as per its documentation
+npm install @mui/material @emotion/react @emotion/styled
+npm install @fontsource/roboto
+Copy roboto css imports to main.tsx
+npm install @mui/icons-material
+
+For self signed certificate to use https for local client application:
+npm i -D vite-plugin-mkcert
+Configure vite.config.ts
+
+Self signed certificate also needs to be generated from backend
+dotnet tool install --global dotnet-dev-certs
+dotnet dev-certs https --trust
+dotnet dev-certs https --check
+
+Note:
+In Program.cs needs middleware
+app.UseHttpsRedirection();
