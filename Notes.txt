@@ -50,7 +50,7 @@ For self signed certificate to use https for local client application:
 npm i -D vite-plugin-mkcert
 Configure vite.config.ts
 
-Self signed certificate also needs to be generated from backend
+Self signed certificate can also be generated from backend
 dotnet tool install --global dotnet-dev-certs
 dotnet dev-certs https --trust
 dotnet dev-certs https --check
