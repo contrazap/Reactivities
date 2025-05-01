@@ -11,5 +11,11 @@
     },
     "[csharp]": {
         "editor.tabSize": 4
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
     }
 }

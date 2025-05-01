@@ -58,3 +58,5 @@ dotnet dev-certs https --check
 Note:
 In Program.cs needs middleware
 app.UseHttpsRedirection();
+
+npm i react-calendar
